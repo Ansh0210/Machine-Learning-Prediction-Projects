@@ -2,3 +2,4 @@
 Contains notebooks for different ML prediction projects
 
 1. Rock vs Mine Prediction
+2. Diabeted Prediction
